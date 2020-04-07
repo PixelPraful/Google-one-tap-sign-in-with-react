@@ -5,9 +5,9 @@ class Home extends React.Component {
     return (
       <div>
         <header>
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
+          <b>
+            Make sure you are logged in with an account.
+          </b>
         </header>
       </div>
     );
